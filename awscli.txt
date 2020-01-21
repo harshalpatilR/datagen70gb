@@ -1,0 +1,33 @@
+https://qiita.com/alokrawat050/items/56820afdb6968deec6a2
+https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html
+https://aws.amazon.com/premiumsupport/knowledge-center/s3-multipart-upload-cli/
+
+pip3 install awscli
+aws configure
+https://docs.aws.amazon.com/general/latest/gr/rande.html#regional-endpoints
+aws s3 ls
+aws s3 ls s3://harshalpatil-s3
+aws s3 cp ./datagen70gb.csv s3://harshalpatil-s3
+
+
+
+
+
+
+
+https://kb.databricks.com/cloud/s3-part-number-limit.html
+
+
+
+
+
+
+
+
+
+
+
+https://www.kaggle.com/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018
+
+
+
